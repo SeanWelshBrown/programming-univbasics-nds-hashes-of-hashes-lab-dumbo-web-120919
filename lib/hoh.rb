@@ -32,6 +32,13 @@
 
 def naming_system
   animal_hoh = {
-    
+    label: "Kingdom",
+    sub_category: {
+     label: "Phylum",
+     sub_category: {
+       label: "Class"
+     }
+   }
+ }
   }
 end
