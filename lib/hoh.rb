@@ -41,4 +41,6 @@ def naming_system
    }
  }
   }
+  
+  animal_hoh
 end
