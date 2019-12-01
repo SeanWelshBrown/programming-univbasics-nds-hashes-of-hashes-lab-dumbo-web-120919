@@ -39,6 +39,8 @@ def naming_system
         label: "Class"
       }
     }
-    
-    animal_hoh
+  }  
+  
+animal_hoh
+
 end
